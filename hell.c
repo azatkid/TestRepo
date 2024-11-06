@@ -12,6 +12,11 @@ void power_down{
 	return;
 }
 
+<<<<<<< HEAD:hell.txt
 void init(){
 	return;
+=======
+int main (void){
+	power_up();
+>>>>>>> sec_func:hell.c
 }
