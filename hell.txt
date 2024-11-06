@@ -11,3 +11,7 @@ void power_down{
 	power--;
 	return;
 }
+
+void init(){
+	return;
+}
